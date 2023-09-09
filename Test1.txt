@@ -1,0 +1,5 @@
+i create a boring and sharing file with name of firstmodel 
+i n the git directory and commit the file.
+i push the code from local to central respo::wq
+ 
+
